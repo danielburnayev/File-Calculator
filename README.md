@@ -6,6 +6,16 @@ Get your mathematical questions answered by this Python file calculator! Simple 
 - Access to a command-line interface
 - Python version 3.12 installed on your personal machine
 
+## File Format
+Using the example-equations1.txt as an example, make sure your every mathematical equation in your eqaution files are formatted like this:
+
+<equation>
+<equation>
+<equation>
+<equation>
+<more equations...>
+
+
 ## Usage
 Simply type the following in your UNIX command-line to run the python script:
 <br> python3 calculate_equation_from_file.py <provided .txt file with equations>
