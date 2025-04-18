@@ -8,7 +8,7 @@ Get your mathematical questions answered by this Python file calculator! Simple 
 
 ## Usage
 Simply type the following in your UNIX command-line to run the python script:
-\python3 calculate_equation_from_file.py <provided .txt file with equations>
+<br> python3 calculate_equation_from_file.py <provided .txt file with equations>
 
 For example, using the example files provided in this repo, a practical example would look something like this:
-\python3 calculate_equation_from_file.py example-equations1.txt
+<br> python3 calculate_equation_from_file.py example-equations1.txt
