@@ -8,8 +8,8 @@ Get your mathematical questions answered by this Python file calculator! Simple 
 
 ## File Format
 Using the example-equations1.txt as an example, make sure your every mathematical equation in your eqaution files are formatted like this:
-`<equation>`
-`<equation>`
+`<equation>` <br>
+`<equation>` <br>
 `<equation>`
 
 ## Usage
