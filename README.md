@@ -7,7 +7,7 @@ Get your mathematical questions answered by this Python file calculator! Simple 
 - Python version 3.12 installed on your personal machine
 
 ## File Format
-Using the example-equations1.txt as an example, make sure your every mathematical equation in your eqaution files are formatted like this:
+Using the example-equations1.txt as an example, make sure your every mathematical equation in your eqaution files are formatted like this: <br>
 `<equation>` <br>
 `<equation>` <br>
 `<equation>`
