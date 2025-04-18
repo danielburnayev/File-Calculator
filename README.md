@@ -8,12 +8,14 @@ Get your mathematical questions answered by this Python file calculator! Simple 
 
 ## File Format
 Using the example-equations1.txt as an example, make sure your every mathematical equation in your eqaution files are formatted like this:
-<pre> <equation> <equation> <equation> </pre>
+<pre> `<equation>` `<equation>` `<equation>` </pre>
 
 
 ## Usage
 Simply type the following in your UNIX command-line to run the python script:
-<br> python3 calculate_equation_from_file.py <provided .txt file with equations>
+<br> 
+<pre> python3 calculate_equation_from_file.py `<provided .txt file with equations>` <pre>
 
 For example, using the example files provided in this repo, a practical example would look something like this:
-<br> python3 calculate_equation_from_file.py example-equations1.txt
+<br> 
+<pre> python3 calculate_equation_from_file.py example-equations1.txt <pre>
