@@ -13,7 +13,6 @@ Using the example-equations1.txt as an example, make sure your every mathematica
 <equation>
 <equation>
 <equation>
-<more equations...>
 
 
 ## Usage
